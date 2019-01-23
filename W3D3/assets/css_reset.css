@@ -1,0 +1,31 @@
+html, body, section, article, h1, h2, h4 p {
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  font: inherit;
+  font-family: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: inherit;
+  vertical-align: baseline;
+
+  background-color: inherit;
+
+}
+
+body {
+  background-color: white;
+  line-height: 1.5;
+}
+
+
+ol, ul, li {
+  list-style: none;
+  background-color: white;
+}
+
+img {
+  width: 100%;
+}
